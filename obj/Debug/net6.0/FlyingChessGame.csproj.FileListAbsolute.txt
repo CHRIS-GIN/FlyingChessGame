@@ -1,0 +1,15 @@
+/Users/zhanshuo.qithoughtworks.com/Downloads/TW_work/c#-learning/FlyingChessGame/bin/Debug/net6.0/FlyingChessGame
+/Users/zhanshuo.qithoughtworks.com/Downloads/TW_work/c#-learning/FlyingChessGame/bin/Debug/net6.0/FlyingChessGame.deps.json
+/Users/zhanshuo.qithoughtworks.com/Downloads/TW_work/c#-learning/FlyingChessGame/bin/Debug/net6.0/FlyingChessGame.runtimeconfig.json
+/Users/zhanshuo.qithoughtworks.com/Downloads/TW_work/c#-learning/FlyingChessGame/bin/Debug/net6.0/FlyingChessGame.dll
+/Users/zhanshuo.qithoughtworks.com/Downloads/TW_work/c#-learning/FlyingChessGame/bin/Debug/net6.0/FlyingChessGame.pdb
+/Users/zhanshuo.qithoughtworks.com/Downloads/TW_work/c#-learning/FlyingChessGame/obj/Debug/net6.0/FlyingChessGame.csproj.AssemblyReference.cache
+/Users/zhanshuo.qithoughtworks.com/Downloads/TW_work/c#-learning/FlyingChessGame/obj/Debug/net6.0/FlyingChessGame.GeneratedMSBuildEditorConfig.editorconfig
+/Users/zhanshuo.qithoughtworks.com/Downloads/TW_work/c#-learning/FlyingChessGame/obj/Debug/net6.0/FlyingChessGame.AssemblyInfoInputs.cache
+/Users/zhanshuo.qithoughtworks.com/Downloads/TW_work/c#-learning/FlyingChessGame/obj/Debug/net6.0/FlyingChessGame.AssemblyInfo.cs
+/Users/zhanshuo.qithoughtworks.com/Downloads/TW_work/c#-learning/FlyingChessGame/obj/Debug/net6.0/FlyingChessGame.csproj.CoreCompileInputs.cache
+/Users/zhanshuo.qithoughtworks.com/Downloads/TW_work/c#-learning/FlyingChessGame/obj/Debug/net6.0/FlyingChessGame.dll
+/Users/zhanshuo.qithoughtworks.com/Downloads/TW_work/c#-learning/FlyingChessGame/obj/Debug/net6.0/refint/FlyingChessGame.dll
+/Users/zhanshuo.qithoughtworks.com/Downloads/TW_work/c#-learning/FlyingChessGame/obj/Debug/net6.0/FlyingChessGame.pdb
+/Users/zhanshuo.qithoughtworks.com/Downloads/TW_work/c#-learning/FlyingChessGame/obj/Debug/net6.0/FlyingChessGame.genruntimeconfig.cache
+/Users/zhanshuo.qithoughtworks.com/Downloads/TW_work/c#-learning/FlyingChessGame/obj/Debug/net6.0/ref/FlyingChessGame.dll
